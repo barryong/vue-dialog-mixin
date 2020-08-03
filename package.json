@@ -1,6 +1,6 @@
 {
 	"name": "vue-dialog-mixin",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Vue mixin for dialog components to enable dialog closing on browser's back button clicked",
 	"license": "MIT",
 	"repository": "barryong/vue-dialog-mixin",
